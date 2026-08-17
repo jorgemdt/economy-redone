@@ -1,4 +1,4 @@
-# 🪙 Economia Redone — Guia Completo e Tabela de Trocas
+# 🪙 Economia Redone — Guia Completo e Tabela de Trocas(WIP)
 
 Datapack de rebalanceamento econômico para **Minecraft Java**. Transforma o comércio com os 13 aldeões naturais em um sistema balanceado, dinâmico e **100% automático em segundo plano**.
 
